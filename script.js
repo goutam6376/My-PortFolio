@@ -129,15 +129,32 @@ contactForm.addEventListener('submit', function(e) {
 });
 
 // Typing effect for hero title
-function typeWriter(element, text, speed = 100) {
-    let i = 0;
+function typeWriter(element, textParts, speed = 100) {
+    let partIndex = 0;
+    let charIndex = 0;
     element.innerHTML = '';
     
     function type() {
-        if (i < text.length) {
-            element.innerHTML += text.charAt(i);
-            i++;
-            setTimeout(type, speed);
+        if (partIndex < textParts.length) {
+            const currentPart = textParts[partIndex];
+            
+            if (currentPart.isHTML) {
+                // Add HTML element instantly
+                element.innerHTML += currentPart.content;
+                partIndex++;
+                setTimeout(type, speed);
+            } else {
+                // Type character by character for text
+                if (charIndex < currentPart.content.length) {
+                    element.innerHTML += currentPart.content.charAt(charIndex);
+                    charIndex++;
+                    setTimeout(type, speed);
+                } else {
+                    partIndex++;
+                    charIndex = 0;
+                    setTimeout(type, speed);
+                }
+            }
         }
     }
     type();
@@ -147,8 +164,14 @@ function typeWriter(element, text, speed = 100) {
 window.addEventListener('load', () => {
     const heroTitle = document.querySelector('.hero-title');
     if (heroTitle) {
-        const originalText = heroTitle.innerHTML;
-        typeWriter(heroTitle, originalText, 80);
+        // Parse the content into text and HTML parts
+        const textParts = [
+            { content: "Hi, I'm ", isHTML: false },
+            { content: '<span class="highlight">', isHTML: true },
+            { content: "Goutam Kumar", isHTML: false },
+            { content: '</span>', isHTML: true }
+        ];
+        typeWriter(heroTitle, textParts, 80);
     }
 });
 
