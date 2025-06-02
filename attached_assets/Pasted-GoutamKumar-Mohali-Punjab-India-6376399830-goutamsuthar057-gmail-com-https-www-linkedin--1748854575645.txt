@@ -1,0 +1,55 @@
+GoutamKumar
+ Mohali, Punjab, India | 6376399830 | goutamsuthar057@gmail.com | https://www.linkedin.com/in/goutam-kumar-a864121aa/ |
+ https://github.com/goutam6376 | https://leetcode.com/u/goutam6376/
+ EDUCATION
+ Chandigarh University
+ Pink ModelSrSecSchool
+ Pink ModelSrSecSchool
+ TECHNICAL SKILLS
+ BEinComputerScienceandEngineering |CGPA:7.70
+ Intermediate | Percentage : 94.60
+ Matriculation | Percentage : 91.83
+ 2021–2025
+ 2019–2020
+ 2018–2019
+ Languages: C++(Proficient), JavaScript, Java, Python
+ WebTechnology: HTML,CSS,JavaScript,React.js, Node.js, Express.js
+ Databases: SQL,MongoDB
+ MLLibraries : NumPy,Pandas,Matplotlib
+ DevelopmentandTestingTools: VisualStudioCode,Git,GitHub,Postman
+ KEY COURSESTAKEN
+ DataStructures andAlgorithms
+ SoftwareEngineering
+ Object OrientedProgrammingUsingC++
+ DatabaseManagementSystem
+ MachineLearning
+ INTERNSHIP EXPERIENCE
+ WebDeveloper |Code-Decoder
+ June 2022–August2022– Developed5websitesaspartofa4-memberteamduringtheCode-Decoderinternship.– Completeda40+hourself-studyinHTML,CSS,JavaScript,Node.js, andReact.js, culminating in a responsive web platform
+ that improved user engagementby10Percent.– Createdafeedbacksystemthatboostedproductivity by20Percentandimprovedteamcollaborationduringchallenges.– Facilitated data review sessions, identifying 15 critical points that significantly influenced strategic decision-making.
+ PROJECTS
+ MovieRecommendationSystem |Python,MachineLearningAlgorithm
+ 2023–2024– Developedamovierecommendationsystemthatreducedcontentsearchtimeby7minutesandenhancedsubscriber
+ satisfaction and retention.– Established aCI/CDpipeline for Node.js applications, reducing deployment time by 5 Percent and enabling faster feature
+ delivery.– Analyzedtextual data from2,000moviedescriptions, improving the accuracy of user recommendations.
+ Online WebIDE |HTML,CSS,JavaScript,Node.js, Express.js, MongoDB
+ 2022–2023– Built amulti-language online compiler platform that supports 5 programming languages, highlighting the need for a
+ variety of coding tools.– ProficientinPython,Java, andC++,leveraging expertise to troubleshoot and debug complex codewith8Percentgreater
+ efficiency.– Anintuitive interface that boosted user satisfaction by 15 Percent, promoting accessibility and ease of code development.
+ WeatherForcastingWebApp |HTML,CSS,JavaScript,RapidAPI,VSCodeEditor
+ 2022-2023– Implementedaresponsivedesignthatensuresseamlessadaptationacrossvarious screen sizes and devices, resulting in a
+ 5-10 Percent improvementinmobileuserretention.– Utilizing the Rapid API, the weather forecasting app fetches real-time weather data 15 times faster, providing users with
+ up-to-date information about current weather conditions.
+ TIC-TAC-TOE |HTML,CSS,JavaScript, VS CodeEditor
+ 2022-2023– Built aTic-Tac-Toe gameusing theMin-maxalgorithm, written in 200+ lines of code.– UsedObject-OrientedProgramming(OOPS)todesign5+classesforbetterorganization and easy maintenance.– Designedasimpleandinteractiveuserinterface for the Tic-Tac-Toe game, with 5+ features like score tracking and player
+ prompts
+ CERTIfiCATIONS
+ AnIntroduction toProgrammingthroughC++ |SWAYAM
+ WebDevelopmentTraining |ChandigarhUniversity
+ SQLandDatabase |META+COURSERA
+ ProgrammingforEverybody(GettingStartedwithPython) |COURSERA
+ Introduction to JavaasaSecondLanguage |LearnQuest+COURSERA
+ DataStructure andAlgorithm |COURSERA
+ ACADEMIC ACHIEVEMENTS
+ Solved250+DSAproblemsacrossmultipleonlineplatformseg. LeetCode,GeeksForGeeks.
+ Certificate of Participation in Code Chaser1.0CodingCompetition;securedarankinthetop50.
